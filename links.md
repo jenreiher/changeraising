@@ -15,3 +15,4 @@ criteria development:
 -------------
 * http://neighbourhoodsmallgrants.ca/grant/neighbourhood-small-grants
 * http://neighbourhoodsmallgrants.ca/grant/neighbourhood-small-grants-victoria-hillside-quadra
+* http://www.participatorybudgeting.org/about-participatory-budgeting/what-is-pb/
