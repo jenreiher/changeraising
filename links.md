@@ -17,7 +17,7 @@ criteria development:
 * http://neighbourhoodsmallgrants.ca/grant/neighbourhood-small-grants-victoria-hillside-quadra
 * http://www.participatorybudgeting.org/about-participatory-budgeting/what-is-pb/
 
-Non-traditional crowdsourcing:
+non-traditional crowdsourcing:
 -------------
 * https://challenges.openideo.com/challenge?_ga=1.93352468.863622529.1452140223
 * https://www.ioby.org/
