@@ -10,6 +10,7 @@ similar websites:
 -------------
 * http://www.neighbourhoodsmallgrants.ca/
 * http://www.edmonton.ca/residential_neighbourhoods/building_great_neighbourhoods/great-neighbourhoods.aspx
+* http://www.cbt.org/
 
 criteria development:
 -------------
